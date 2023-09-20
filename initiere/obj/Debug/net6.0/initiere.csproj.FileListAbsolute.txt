@@ -1,0 +1,14 @@
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.AssemblyInfoInputs.cache
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.AssemblyInfo.cs
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.csproj.CoreCompileInputs.cache
+C:\mycode\incapsulare\initiere\initiere\bin\Debug\net6.0\initiere.exe
+C:\mycode\incapsulare\initiere\initiere\bin\Debug\net6.0\initiere.deps.json
+C:\mycode\incapsulare\initiere\initiere\bin\Debug\net6.0\initiere.runtimeconfig.json
+C:\mycode\incapsulare\initiere\initiere\bin\Debug\net6.0\initiere.dll
+C:\mycode\incapsulare\initiere\initiere\bin\Debug\net6.0\initiere.pdb
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.dll
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\refint\initiere.dll
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.pdb
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\initiere.genruntimeconfig.cache
+C:\mycode\incapsulare\initiere\initiere\obj\Debug\net6.0\ref\initiere.dll
